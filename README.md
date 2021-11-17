@@ -2,7 +2,7 @@
 
 This workflow is an easy way to search items on Envato Elements.
 
-### Environment Variables
+## Environment Variables
 
 ![img](workflow_environment_variables.png)
 
@@ -25,3 +25,7 @@ You can type the keyword "ee" + space + "what you want to search" and press ente
 1. `searchable_list.rb` file is for people who want to learn how to write workflow (Script Filter), all of it are packaged inside the "Script Filter" in the workflow.
 
 2. This is my first try to write a alfred workflow, if there is anything I can do better please let me know, thank you!
+
+## Download
+
+https://github.com/hellolucky/Alfred-Envato-Elements-Search-Workflow/releases/latest/download/Alfred.Envato.Elements.Search.alfredworkflow
